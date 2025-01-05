@@ -1,0 +1,21 @@
+{
+	"GENERAL": {
+		"token": "токен",
+		"prefix": "префикс",
+		"theme": "standart"
+	},
+	"LOGS": {
+		"delete_message_logger": false,
+		"delete_message_logger_webhook": "вебхук",
+		"edit_message_logger": false,
+		"edit_message_logger_webhook": "вебхук",
+		"blacklist_message_logger_servers": []
+	},
+	"OTHER": {
+		"nuke_commands": false,
+		"disco_status": false,
+		"show_notifications": false,
+		"auto_send_text": ["", ""],
+		"auto_send_channel": 0
+	}
+}
